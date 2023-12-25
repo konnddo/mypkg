@@ -1,6 +1,7 @@
 # robosys_ros2
-ロボットシステム学の課題2のリポジトリ
 [![test](https://github.com/konnddo/robosys_ros2/actions/workflows/test.yml/badge.svg)](https://github.com/konnddo/robosys_ros2/actions/workflows/test.yml)
+
+ロボットシステム学、課題2のリポジトリ
 
 ## 概要
  * パブリッシャーのtalkerとサブスクライバーのlistenerの通信の様子を再現する。
