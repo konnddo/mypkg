@@ -8,5 +8,5 @@ def cb(msg):
 
 rclpy.init()
 node = Node("listener")
-pub = node.creat_subscription(Int16, "count up", cd, 10)
+pub = node.create_subscription(Int16, "countup", cb, 10)
 rclpy.spin(node)
