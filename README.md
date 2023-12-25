@@ -1,4 +1,4 @@
-# robosys_ros2
+# robosys2023_ros2
 [![test](https://github.com/konnddo/robosys_ros2/actions/workflows/test.yml/badge.svg)](https://github.com/konnddo/robosys_ros2/actions/workflows/test.yml)
 
 ロボットシステム学、課題2のリポジトリ
