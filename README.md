@@ -21,6 +21,13 @@ ros2 run mypkg talker
 ros2 run mypkg listener
 ```
 
+## 実行結果
+```
+[INFO] [Listener]: Listen: 142
+[INFO] [Listener]: Listen: 143
+・・・
+```
+
 ## 動作環境
  * Ubuntu22.04 LTS
  * ROS2
