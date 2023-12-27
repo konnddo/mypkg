@@ -23,8 +23,8 @@ ros2 run mypkg listener
 
 ## 実行結果
 ```
-[INFO] [Listener]: Listen: 142
-[INFO] [Listener]: Listen: 143
+[INFO] [Listener]: Listen: 27
+[INFO] [Listener]: Listen: 28
 ・・・
 ```
 
