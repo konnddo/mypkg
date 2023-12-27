@@ -22,7 +22,8 @@ ros2 run mypkg listener
 ```
 
 ## 動作環境
- * ros2がインストールされているUbuntu
+ * Ubuntu22.04 LTS
+ * ROS2
 
 ## テスト環境
  * Ubuntu 22.04
