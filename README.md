@@ -3,9 +3,6 @@
 
 ロボットシステム学、課題2のリポジトリ
 
-## 概要
- * パブリッシャーのtalkerとサブスクライバーのlistenerの通信の様子を再現する。
-
 ## ノードとトピック
  * talker
     * 0.5秒ごとに0から1ずつカウント。
@@ -14,12 +11,15 @@
  * /countup
     * Int16型の変数にメッセージを格納。
 
-## インストール方法
- * ros2がインストールされているUbuntuにクローンを作る。
-
 ## 実行方法
- * 端末1$ ros2 run mypkg talker
- * 端末2$ ros2 run mypkg listener
+ * 端末1
+```
+ros2 run mypkg talker
+```
+ * 端末2
+```
+ros2 run mypkg listener
+```
 
 ## 動作環境
  * ros2がインストールされているUbuntu
